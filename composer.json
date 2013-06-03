@@ -1,5 +1,5 @@
 {
-    "name": "prestoheads/NameCaseLibBundle",
+    "name": "prestoheads/name-case-lib-bundle",
     "type": "symfony-bundle",
     "description": "Integration http://namecaselib.com/ into Symfony2",
     "keywords": ["NameCaseLib", "bundle"],
