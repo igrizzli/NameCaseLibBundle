@@ -1,0 +1,25 @@
+{
+    "name": "prestoheads/NameCaseLibBundle",
+    "type": "symfony-bundle",
+    "description": "Integration http://namecaselib.com/ into Symfony2",
+    "keywords": ["NameCaseLib", "bundle"],
+    "homepage": "http://github.com/prestoheads/NameCaseLibBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislaw Smetanin",
+            "email": "stanislaw@smetanin-online.name"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev"
+    },
+    "autoload": {
+        "psr-0": { "PrestoHeads\\NameCaseLibBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "PrestoHeads/NameCaseLibBundle"
+}
