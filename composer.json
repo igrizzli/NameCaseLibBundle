@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.4.1",
         "symfony/framework-bundle": "2.*, >=2.1",
-        "prestoheads/name-case-lib": "dev-master"
+        "prestoheads/name-case-lib": "1.0.*"
     },
     "autoload": {
         "psr-0": { "PrestoHeads\\NameCaseLibBundle": "" }
