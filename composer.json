@@ -13,9 +13,7 @@
     ],
     "require": {
         "php": ">=5.4.1",
-        "symfony/framework-bundle": "2.*, >=2.1"        
-    },
-    "required-dev": {
+        "symfony/framework-bundle": "2.*, >=2.1",
         "prestoheads/name-case-lib": "dev-master"
     },
     "autoload": {
