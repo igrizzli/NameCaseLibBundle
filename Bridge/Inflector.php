@@ -16,11 +16,15 @@ class Inflector {
 
     public function __construct()
     {
-//        require_once
     }
 
     public function convert($word)
     {
         return $this->lib->q($word);
+    }
+
+    public function setLib($className)
+    {
+        $this->lib = new $className();
     }
 }

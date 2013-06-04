@@ -10,6 +10,9 @@
 
     <services>
         <service id="prestoheads.name_case_lib.inflector" class="%presto_heads.name_case_lib.inflector.class%">
+            <call method="setLib">
+                <argument>\NCLNameCaseRu</argument>
+            </call>
         </service>
 
         <service id="ph.inflector" alias="prestoheads.name_case_lib.inflector" />
