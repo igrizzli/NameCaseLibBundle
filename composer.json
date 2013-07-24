@@ -1,9 +1,9 @@
 {
-    "name": "prestoheads/name-case-lib-bundle",
+    "name": "stansmet/name-case-lib-bundle",
     "type": "symfony-bundle",
     "description": "Integration http://namecaselib.com/ into Symfony2",
     "keywords": ["NameCaseLib", "bundle"],
-    "homepage": "http://github.com/prestoheads/NameCaseLibBundle",
+    "homepage": "http://github.com/stansmet/NameCaseLibBundle",
     "license": "MIT",
     "authors": [
         {
@@ -14,11 +14,11 @@
     "require": {
         "php": ">=5.4.1",
         "symfony/framework-bundle": "2.*, >=2.1",
-        "prestoheads/name-case-lib": "1.0.*"
+        "stansmet/name-case-lib": "1.0.*"
     },
     "autoload": {
-        "psr-0": { "PrestoHeads\\NameCaseLibBundle": "" }
+        "psr-0": { "stansmet\\NameCaseLibBundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "PrestoHeads/NameCaseLibBundle"
+    "target-dir": "stansmet/NameCaseLibBundle"
 }
