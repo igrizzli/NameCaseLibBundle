@@ -20,5 +20,5 @@
         "psr-0": { "Stansmet\\NameCaseLibBundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "Stansmet/NameCaseLibBundle"
+    "target-dir": "stansmet/NameCaseLibBundle"
 }
