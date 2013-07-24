@@ -7,7 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-namespace PrestoHeads\NameCaseLibBundle\Bridge;
+namespace Stansmet\NameCaseLibBundle\Bridge;
 
 
 class Inflector {
