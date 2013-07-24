@@ -17,8 +17,8 @@
         "stansmet/name-case-lib": "1.0.*"
     },
     "autoload": {
-        "psr-0": { "stansmet\\NameCaseLibBundle": "" }
+        "psr-0": { "Stansmet\\NameCaseLibBundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "stansmet/NameCaseLibBundle"
+    "target-dir": "Stansmet/NameCaseLibBundle"
 }
