@@ -27,4 +27,9 @@ class Inflector {
     {
         $this->lib = new $className();
     }
+    
+    public function money2str($money)
+    {
+        return $this->lib>money2str($money);
+    }
 }
