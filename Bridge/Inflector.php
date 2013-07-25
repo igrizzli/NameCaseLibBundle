@@ -30,6 +30,6 @@ class Inflector {
     
     public function money2str($money)
     {
-        return $this->lib>money2str($money);
+        return $this->lib->money2str($money);
     }
 }
